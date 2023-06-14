@@ -376,6 +376,14 @@
       "q" : 100,
       "rq" : 75
     },
+    "\/article.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/article.html",
+      "oF" : 0
+    },
     "\/article.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -1541,7 +1549,7 @@
       "hM" : 0,
       "oA" : 0,
       "oAP" : "\/index.html",
-      "oF" : 2
+      "oF" : 0
     },
     "\/mstile-150x150.png" : {
       "ft" : 32768,
@@ -1578,7 +1586,7 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/partials\/layout-nav.html",
-      "oF" : 1
+      "oF" : 0
     },
     "\/partials\/logo.kit" : {
       "cB" : 0,
@@ -1587,6 +1595,25 @@
       "oA" : 1,
       "oAP" : "\/partials\/logo.html",
       "oF" : 0
+    },
+    "\/README.md" : {
+      "cB" : 0,
+      "cS" : 0,
+      "eF" : 1,
+      "eL" : 1,
+      "ema" : 1,
+      "eSQ" : 1,
+      "ft" : 4096,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0,
+      "oFM" : 0,
+      "oS" : 0,
+      "pHT" : 0,
+      "pME" : 1,
+      "rFN" : 0,
+      "uCM" : 0
     }
   },
   "hooks" : [
